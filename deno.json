@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "deno_config": "https://deno.land/x/deno_config@v0.1.2/mod.ts",
+    "osc": "https://deno.land/x/osc@v0.1.0/mod.ts"
+  }
+}
